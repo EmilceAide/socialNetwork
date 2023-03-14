@@ -26,7 +26,7 @@ const Login = () => {
 
     return (
         <div>
-            <h4>Login Formik</h4>
+            <h4>Login</h4>
             <Formik
                 // *** Initial values that the form will take
                 initialValues = { initialCredentials }
